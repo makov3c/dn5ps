@@ -3,7 +3,7 @@ Za podrobnejša navodila in godoc dokumentacijo poženi:
 ```
 go doc -all redovalnica
 ```
-
+Več na: https://pkg.go.dev/github.com/makov3c/dn5ps@v0.0.0-20251202183731-53affebc548f/redovalnica
 
 Najprej poženemo `go.build` nato pa poganjamo program s poljubnimi zastavicami.
 
