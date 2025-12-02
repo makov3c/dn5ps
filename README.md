@@ -1,4 +1,9 @@
 # navodila za uporabo redovalnice
+Za podrobnejša navodila in godoc dokumentacijo poženi:
+```
+go doc -all redovalnica
+```
+
 
 Najprej poženemo `go.build` nato pa poganjamo program s poljubnimi zastavicami.
 
